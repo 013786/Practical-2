@@ -14,3 +14,5 @@ Next steps would be to run this concept past a group of dealers and see if this 
 from the experts would help.
 
 You can find a permalink to my notebook submission here: https://github.com/013786/Practical-2/blob/489aea1b8bb8d4c8558ccccd2ab2d66b375a0225/long_practical2.ipynb
+
+Images for graphs can be found in the /images directory here: https://github.com/013786/Practical-2/tree/main/images
