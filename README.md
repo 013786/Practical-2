@@ -12,3 +12,5 @@ I ended up building a linear regression model to answer the first question and u
 
 Next steps would be to run this concept past a group of dealers and see if this answers the kinds of questions they are asking.  I think this provides useful insight, but direct feedback
 from the experts would help.
+
+You can find a permalink to my notebook submission here: https://github.com/013786/Practical-2/blob/489aea1b8bb8d4c8558ccccd2ab2d66b375a0225/long_practical2.ipynb
